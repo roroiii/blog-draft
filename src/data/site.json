@@ -1,0 +1,48 @@
+{
+  "name": "半夏星夜 Stars Of The Summer Night",
+  "description": "工程師的故事，現正進行中。",
+  "url": "https://blog.roroiii.com",
+  "author": {
+    "name": "半夏",
+    "email": "tina@roroiii.com",
+    "twitterHandle": ""
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    },
+    {
+      "text": "Cat",
+      "url": "/cat",
+      "external": false
+    },
+    {
+      "text": "R",
+      "url": "/R",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "text": "GitHub",
+      "url": "https://github.com/roroiii",
+      "external": true
+    }
+  ],
+  "footerLinks": [
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": false
+}
